@@ -4,4 +4,4 @@ fake-useragent==1.4.0
 Werkzeug==2.3.7
 python-telegram-bot==20.6
 aiofiles==23.2.1
-aiohttp==3.8.6
+aiohttp==3.10.11
