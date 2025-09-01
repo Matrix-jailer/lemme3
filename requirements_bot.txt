@@ -5,3 +5,4 @@ Werkzeug==2.3.7
 python-telegram-bot==20.6
 aiofiles==23.2.1
 aiohttp==3.10.11
+requests==2.31.0
