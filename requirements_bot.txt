@@ -3,3 +3,4 @@ httpx==0.25.0
 fake-useragent==1.4.0
 Werkzeug==2.3.7
 python-telegram-bot==20.6
+aiofiles==23.2.1
