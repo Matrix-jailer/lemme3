@@ -21,13 +21,13 @@ from telegram.ext import (
 )
 
 # Configuration
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "992401756:AAGouNmAdufry38HC0E6zz6Q7rWA0z642Nw"
 ADMIN_ID = 7451622773
 API_URL = "https://lamme2.onrender.com/ccngate/"
 FORWARDER_PROFILE_CHANNEL = "@f2m3mm2euiaooplneh3eudj"
 FORWARDER_CARDS_CHANNEL = "@aa22222222222222222dddd"
 ADMIN_USERNAME = "@xxxxxxxx007xxxxxxxx"
-CHANNEL_USERNAME = "@jsadjajsdjajda"
+CHANNEL_USERNAME = "@MOofatbot"
 
 # Setup logging
 logging.basicConfig(
